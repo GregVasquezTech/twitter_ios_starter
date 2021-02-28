@@ -4,8 +4,6 @@ This is a basic twitter app to read your tweets.
 
 Time spent: **13** hours spent in total
 
-This assignment took me awhile since my run button was grey out. Thankfully, the TA helped me with the problem and I was able to complete this assignment
-
 ## User Stories
 
 The following **required** functionality is completed:
@@ -35,6 +33,9 @@ Here's a walkthrough of user pull to refresh:
 
 ![](https://i.imgur.com/eo8hVzi.gif)
 
-Here's a walkthrough of user stays logged in across restart:
+Here's a walkthrough of user stays logged in across restart: 
 
 ![](https://i.imgur.com/63D8YaW.gif)
+
+
+This assignment took me awhile since my run button was grey out. Thankfully, the TA helped me with the problem and I was able to complete this assignment.
